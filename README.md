@@ -1,4 +1,6 @@
 # pneumonia-detector
+
+<img src="https://socialify.git.ci/asphytheghoul/pneumonia-detector/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Signal&stargazers=1&theme=Dark" alt="pneumonia-detector" width="640" height="320" />
 This is an x-ray detection model which detects pneumonia from a patient's chest x-ray. To run the program, download and install the requirements from the `requirements.txt` file 
 
 Sample output: <br/>
